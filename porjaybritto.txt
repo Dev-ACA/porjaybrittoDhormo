@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CMP </title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+<script src="https://kit.fontawesome.com/69d86265d2.js" crossorigin="anonymous"></script>
+<style>
+a:link, a:visited {
+  background-color: #4682b4;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: darkgreen;
+}
+.center {
+  text-align: center;
+  color: darkgreen;
+}
+</style>
+</head>
+<body>
+
+<h1 class="center"><i class="fa-solid fa-ghost" style="font-size:45px;color:darkseagreen;"></i> Periodic Properties Of Elements & Chemical Bonding <i class="fa-solid fa-ghost" style="font-size:45px;color:darkseagreen;"></i></h1><br>
+
+<p class="center"><a href="https://www.facebook.com/100011247723155/videos/1025395115025840/"><i class="fa-solid fa-bomb" style="font-size:45px;color:black;">Class 1</i></a></p><br>
+
+<p class="center"><a href="https://www.facebook.com/100011247723155/videos/340300828075263/?__cft__[0]=AZWGpC96Hr9349rZY-YFXbM0_7Rmo3tXAFR8kyTALZq-CnOISbRZFzR4aLSGtpiZVXUbKyTDQ85fb09mxTV2R-mM-Te7WSz93qT60Zna438SZJgMQmbWqRA7yf2p1Mt-Hs0&__tn__=-UK-R"><i class="fa-solid fa-bomb" style="font-size:45px;color:black;"> Class 2 </i></a></p><br>
+
+<p class="center"><a href="https://www.facebook.com/100011247723155/videos/362700832574564/?__cft__[0]=AZWGpC96Hr9349rZY-YFXbM0_7Rmo3tXAFR8kyTALZq-CnOISbRZFzR4aLSGtpiZVXUbKyTDQ85fb09mxTV2R-mM-Te7WSz93qT60Zna438SZJgMQmbWqRA7yf2p1Mt-Hs0&__tn__=-UK-R"><i class="fa-solid fa-bomb" style="font-size:45px;color:black;">Class 3</i></a></p><br>
+
+<p class="center"><a href="https://www.facebook.com/100011247723155/videos/1170691823702705/?__cft__[0]=AZWGpC96Hr9349rZY-YFXbM0_7Rmo3tXAFR8kyTALZq-CnOISbRZFzR4aLSGtpiZVXUbKyTDQ85fb09mxTV2R-mM-Te7WSz93qT60Zna438SZJgMQmbWqRA7yf2p1Mt-Hs0&__tn__=-UK-R"><i class="fa-solid fa-bomb" style="font-size:45px;color:black;">Class 4</i></a></p><br>
+
+<p class="center"><a href="https://www.facebook.com/100011247723155/videos/1816875128522679/?__cft__[0]=AZWGpC96Hr9349rZY-YFXbM0_7Rmo3tXAFR8kyTALZq-CnOISbRZFzR4aLSGtpiZVXUbKyTDQ85fb09mxTV2R-mM-Te7WSz93qT60Zna438SZJgMQmbWqRA7yf2p1Mt-Hs0&__tn__=-UK-R"><i class="fa-solid fa-bomb" style="font-size:45px;color:black;">Class 5</i></a></p><br>
+
+<p class="center"><a href="https://www.facebook.com/100011247723155/videos/1214807249281073/?__cft__[0]=AZWGpC96Hr9349rZY-YFXbM0_7Rmo3tXAFR8kyTALZq-CnOISbRZFzR4aLSGtpiZVXUbKyTDQ85fb09mxTV2R-mM-Te7WSz93qT60Zna438SZJgMQmbWqRA7yf2p1Mt-Hs0&__tn__=-UK-R"><i class="fa-solid fa-bomb" style="font-size:45px;color:black;">Class 6</i></a></p><br>
+
+<p class="center"><a href="https://www.facebook.com/100011247723155/videos/665670814492121/?__cft__[0]=AZWGpC96Hr9349rZY-YFXbM0_7Rmo3tXAFR8kyTALZq-CnOISbRZFzR4aLSGtpiZVXUbKyTDQ85fb09mxTV2R-mM-Te7WSz93qT60Zna438SZJgMQmbWqRA7yf2p1Mt-Hs0&__tn__=-U-UK-R"><i class="fa-solid fa-bomb" style="font-size:45px;color:black;">Class 7</i></a></p><br>
+
+<p class="center"><a href="https://www.facebook.com/100011247723155/videos/669871597437543/?__cft__[0]=AZWGpC96Hr9349rZY-YFXbM0_7Rmo3tXAFR8kyTALZq-CnOISbRZFzR4aLSGtpiZVXUbKyTDQ85fb09mxTV2R-mM-Te7WSz93qT60Zna438SZJgMQmbWqRA7yf2p1Mt-Hs0&__tn__=-U-UK-R"><i class="fa-solid fa-bomb" style="font-size:45px;color:black;">Class 8</i></a></p><br>
+
+<p class="center"><a href="https://www.facebook.com/100011247723155/videos/2802246173411521/?__cft__[0]=AZWGpC96Hr9349rZY-YFXbM0_7Rmo3tXAFR8kyTALZq-CnOISbRZFzR4aLSGtpiZVXUbKyTDQ85fb09mxTV2R-mM-Te7WSz93qT60Zna438SZJgMQmbWqRA7yf2p1Mt-Hs0&__tn__=-U-UK-R"><i class="fa-solid fa-bomb" style="font-size:45px;color:black;">Class 9</i></a></p><br>
+
+
+
+<p class="center"><a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FU29RQq48pZQ%3Ffbclid%3DIwAR3NC02BqVoKAlXoVrixLM2vpm5aKE4u3jZy7Pw-1XqoL7v-wWWFDD5Cg18&h=AT2ecNVN5mNKdRrnEBosqSk1QdoDfxewd-4C_5XZTZ4kSLao16FhWH5iezhg6JVFcoFmz7N__aha3zProRfqB36Oi3sTYkZgYcJDXG8oy6mPR34icPr8bPDH9D4GdyGim9ge&__tn__=-U-UK-R&c[0]=AT3ROR0nHXOtWlJh-aX_wg3pWW975hoD1Cx2wOvyjHQ1Jf0BcTf4tZNNoWAXPB_qNf7-a1NDuhkbRzvP8Tm3_b5a2RnOh9xa-VP875myxIVYE_Zs4cGEV7h02sTWhH5lsXv9W5LWAi61ZNYowXQqkV0TSQBR" target="_blank"><i class="fa-solid fa-bomb" style="font-size:45px;color:black;"> MCQ Class</i></a></p><br>
+
+<i class=""></i>
+</body>
+</html>
+
+
